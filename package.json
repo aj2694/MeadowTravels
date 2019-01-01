@@ -1,0 +1,15 @@
+{
+  "name": "meadowtravels",
+  "version": "1.0.0",
+  "description": "Travel website prototype",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Agraja Jahagirdar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express3-handlebars": "^0.5.2"
+  }
+}
